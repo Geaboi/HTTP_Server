@@ -12,10 +12,13 @@ A lightweight, fork-based HTTP server written in C++ that serves static files, h
 
 ## 📁 Project Structure
 
-├── main.cpp # Main server logic/n
-├── index.html # Sample homepage/n
-├── InMemoryDB.* # (Implementing) In-memory database files/n
-├── README.md/n
+├── main.cpp # Main server logic
+
+├── index.html # Sample homepage
+
+├── InMemoryDB.* # (Implementing) In-memory database files
+
+├── README.md
 
 ## 🛠 Build Instructions
 
