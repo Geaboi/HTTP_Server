@@ -22,10 +22,5 @@ A lightweight, fork-based HTTP server written in C++ that serves static files, h
 Make sure you have a C++17-compatible compiler installed (e.g., g++).
 
 ```bash
-g++ main.cpp -o server -std=c++17
-
-```Makefile
 make
 
-**##🧪 Running the Server**
-./server
