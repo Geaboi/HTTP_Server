@@ -27,8 +27,5 @@ g++ main.cpp -o server -std=c++17
 ```Makefile
 make
 
-🧪 Running the Server
-bash
-Copy
-Edit
+**##🧪 Running the Server**
 ./server
